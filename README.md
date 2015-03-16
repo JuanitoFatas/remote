@@ -18,15 +18,31 @@
 
 [Presentations -> Working Remote: Insider Tales of Adaptation at GitHub](http://gotocon.com/berlin-2013/presentation/Working%20Remote:%20Insider%20Tales%20of%20Adaptation%20at%20GitHub)
 
+[21 Months In: How to Manage a Remote Team](https://zapier.com/blog/how-manage-remote-team/)
+
+[Putting the “emote” in remote work](http://wynnnetherland.com/journal/putting-the-emote-in-remote-work/)
+
+[Tips & Tools for Working Remotely and Still Being the Best | Toptal](http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
+
 ## Talks
 
 
 
 ## Jobs
 
-- [Remotus](http://remotus.com) - Hire Full-Time Developers Remotely
-- [WFH.io](https://www.wfh.io/) - Technology-based remote (work from home) jobs
+### Tech
 
+- [Remotus](http://remotus.com) - Hire Full-Time Developers Remotely
+- [Dribbble - Jobs](https://dribbble.com/jobs)
+- [Remote Job Listings - Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)
+- [Authentic Jobs ~ Full-time and freelance job opportunities for web, design, and creative professionals](http://www.authenticjobs.com/)
+- [RubyNow: Ruby Jobs | Niche Ruby on Rails Jobs Board](http://jobs.rubynow.com/)
+
+### Non-Tech
+
+- [Curated Digital Remote Jobs for the Modern Working Nomad | Working Nomads](http://www.workingnomads.co/)
+- [WFH.io](https://www.wfh.io/) - Technology-based remote (work from home) jobs
+- [remotive.io - ](http://jobs.remotive.io/) - productive remote workers
 
 ## License
 
