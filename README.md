@@ -24,9 +24,16 @@
 
 [Tips & Tools for Working Remotely and Still Being the Best | Toptal](http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
 
+[10 good reasons why working remotely makes sense - TechRepublic](http://www.techrepublic.com/blog/10-things/10-good-reasons-why-working-remotely-makes-sense/)
+
+[Why Isn’t Remote Work More Popular? | Scott Berkun](http://scottberkun.com/2015/why-isnt-remote-work-more-popular/)
+
 ## Talks
 
 
+## Tools
+
+[Online Collaboration Software for Remote and Virtual Teams | Sqwiggle](https://www.sqwiggle.com/)
 
 ## Jobs
 
@@ -36,13 +43,19 @@
 - [Dribbble - Jobs](https://dribbble.com/jobs)
 - [Remote Job Listings - Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)
 - [Authentic Jobs ~ Full-time and freelance job opportunities for web, design, and creative professionals](http://www.authenticjobs.com/)
+- [Curated Digital Remote Jobs for the Modern Working Nomad | Working Nomads](http://www.workingnomads.co/)
 - [RubyNow: Ruby Jobs | Niche Ruby on Rails Jobs Board](http://jobs.rubynow.com/)
 
-### Non-Tech
 
-- [Curated Digital Remote Jobs for the Modern Working Nomad | Working Nomads](http://www.workingnomads.co/)
+### More than Tech
+
+- [Hire Freelancers & Get Freelance Jobs Online](https://www.odesk.com/)
+- [Guru - Hire Quality Freelancers And Find Freelance Jobs](http://www.guru.com/)
+- [Hire freelancers and find freelance jobs instantly | Elance](https://www.elance.com/)
 - [WFH.io](https://www.wfh.io/) - Technology-based remote (work from home) jobs
 - [remotive.io - ](http://jobs.remotive.io/) - productive remote workers
+- [Skillbridge](http://www.skillbridge.co/)
+- [Fiverr: The marketplace for creative & professional services](https://www.fiverr.com/)
 
 ## License
 
