@@ -33,12 +33,19 @@
 
 ## Tools
 
-[Online Collaboration Software for Remote and Virtual Teams | Sqwiggle](https://www.sqwiggle.com/)
+- [Online Collaboration Software for Remote and Virtual Teams | Sqwiggle](https://www.sqwiggle.com/)
+- [Cisco WebEx Web Conferencing, Online Meetings, Desktop Sharing, Video Conferencing](http://www.webex.com/)
+- [join.me – Free Screen Sharing and Online Meetings](https://join.me/)
+- [Easy Online Meetings With HD Video Conferencing | GoToMeeting](http://www.gotomeeting.com/online/entry)
 
 ## Jobs
 
 ### Tech
 
+- [We Work Remotely](https://weworkremotely.com/)
+- [Remote Jobs: a daily listing of jobs where it's okay to work remotely by Remote | OK](http://remoteok.io/)
+- [Remote Internships At Startups](http://remoteinternships.com/)
+- [Remote Jobs: Design, Programming, coding, Rails, wordpress, and more.](https://jobsremotely.com/)
 - [Remotus](http://remotus.com) - Hire Full-Time Developers Remotely
 - [Dribbble - Jobs](https://dribbble.com/jobs)
 - [Remote Job Listings - Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)
