@@ -1,10 +1,18 @@
 # Remote
 
+## History
+
+- [History of Telecommuting Adoption in the U.S. - YouTube](https://www.youtube.com/watch?v=2ly09n3_P9k)
+
 ## Books
 
-[REMOTE: OFFICE NOT REQUIRED](http://37signals.com/remote/)
+- [REMOTE: OFFICE NOT REQUIRED](http://37signals.com/remote/)
+- [The Year Without Pants](http://scottberkun.com/yearwithoutpants/)
+- [The Remote Worker's Guide to Excellence: Eryck K. Dzotsi: 9781479278725: Books](http://www.amazon.com/Remote-Workers-Guide-Excellence/dp/1479278726/)
 
-[The Year Without Pants](http://scottberkun.com/yearwithoutpants/)
+- [The Modern Mom's Guide to Telecommuting: Finding a Balance in Career, Family and Life in General eBook: Lauren Stern: Kindle Store](http://www.amazon.com/Modern-Moms-Guide-Telecommuting-Finding-ebook/dp/B00FW9DA6U/)
+- [The Art of Staying Home: 7 principles to telecommuting and finding true fulfillment in your work. eBook: Omar Otero Business and Motivational Speaker: Kindle Store](http://www.amazon.com/Art-Staying-Home-telecommuting-fulfillment-ebook/dp/B00RD96TJ2/)
+- [Influencing Virtual Teams: 17 Tactics That Get Things Done with Your Remote Employees eBook: Hassan Osman: Kindle Store](http://www.amazon.com/Influencing-Virtual-Teams-Tactics-Employees-ebook/dp/B00LGWDGG6/)
 
 ## Articles
 
@@ -30,7 +38,17 @@
 
 - [Remote by default (BACON 2014) // Speaker Deck](https://speakerdeck.com/cobyism/remote-by-default-bacon-2014)
 
+
+
+## Videos
+
+- [Jason Fried: Why work doesn't happen at work | Talk Video | TED.com](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work)
+
+- [Telecommuting is Good for You and Good for Business - YouTube](https://www.youtube.com/watch?v=R2whPdnCGrM)
+
 - [How to Manage a Virtual Team? - Explained in 3 Minutes by Professor Anca Metiu - YouTube](https://www.youtube.com/watch?v=AJQdT637szs)
+
+- [Telecommuting: Breaking Myths of Teleworking - YouTube](https://www.youtube.com/watch?v=7G9xGrl5vTk)
 
 ## Tools
 
