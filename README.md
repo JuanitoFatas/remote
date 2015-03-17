@@ -1,7 +1,5 @@
 # Remote
 
-## License
-
 ## Books
 
 [REMOTE: OFFICE NOT REQUIRED](http://37signals.com/remote/)
