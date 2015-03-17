@@ -4,6 +4,11 @@
 
 - [History of Telecommuting Adoption in the U.S. - YouTube](https://www.youtube.com/watch?v=2ly09n3_P9k)
 
+## Facts
+
+[Telework and the U.S. Federal
+Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
+
 ## Books
 
 - [REMOTE: OFFICE NOT REQUIRED](http://37signals.com/remote/)
@@ -15,25 +20,20 @@
 - [Influencing Virtual Teams: 17 Tactics That Get Things Done with Your Remote Employees eBook: Hassan Osman: Kindle Store](http://www.amazon.com/Influencing-Virtual-Teams-Tactics-Employees-ebook/dp/B00LGWDGG6/)
 [The Field Guide to Telecommuting: The Definitive Handbook for Current and Potential Teleworkers eBook: Catherine Rayburn-Trobaugh: Kindle Store](http://www.amazon.com/Field-Guide-Telecommuting-Definitive-Teleworkers-ebook/dp/B007XF35HK/)
 
+
+
 ## Articles
 
 ###### [Chinese Articles](https://github.com/JuanitoFatas/remote/wiki/Articles-on-Remote-work-in-Chinese)
-
-[Being a Remote Worker Sucks - Long Live the Remote Worker - Scott Hanselman](http://www.hanselman.com/blog/BeingARemoteWorkerSucksLongLiveTheRemoteWorker.aspx)
-
-[(118) How does Github evaluate the remote developers they hire? - Quora](http://www.quora.com/How-does-Github-evaluate-the-remote-developers-they-hire)
-
-[Presentations -> Working Remote: Insider Tales of Adaptation at GitHub](http://gotocon.com/berlin-2013/presentation/Working%20Remote:%20Insider%20Tales%20of%20Adaptation%20at%20GitHub)
-
-[21 Months In: How to Manage a Remote Team](https://zapier.com/blog/how-manage-remote-team/)
-
-[Putting the “emote” in remote work](http://wynnnetherland.com/journal/putting-the-emote-in-remote-work/)
-
-[Tips & Tools for Working Remotely and Still Being the Best | Toptal](http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
-
-[10 good reasons why working remotely makes sense - TechRepublic](http://www.techrepublic.com/blog/10-things/10-good-reasons-why-working-remotely-makes-sense/)
-
-[Why Isn’t Remote Work More Popular? | Scott Berkun](http://scottberkun.com/2015/why-isnt-remote-work-more-popular/)
+- [On working remotely - wonko.com](http://wonko.com/post/on-working-remotely)
+- [Being a Remote Worker Sucks - Long Live the Remote Worker - Scott Hanselman](http://www.hanselman.com/blog/BeingARemoteWorkerSucksLongLiveTheRemoteWorker.aspx)
+- [(118) How does Github evaluate the remote developers they hire? - Quora](http://www.quora.com/How-does-Github-evaluate-the-remote-developers-they-hire)
+- [Presentations -> Working Remote: Insider Tales of Adaptation at GitHub](http://gotocon.com/berlin-2013/presentation/Working%20Remote:%20Insider%20Tales%20of%20Adaptation%20at%20GitHub)
+- [21 Months In: How to Manage a Remote Team](https://zapier.com/blog/how-manage-remote-team/)
+- [Putting the “emote” in remote work](http://wynnnetherland.com/journal/putting-the-emote-in-remote-work/)
+- [Tips & Tools for Working Remotely and Still Being the Best | Toptal](http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
+- [10 good reasons why working remotely makes sense - TechRepublic](http://www.techrepublic.com/blog/10-things/10-good-reasons-why-working-remotely-makes-sense/)
+- [Why Isn’t Remote Work More Popular? | Scott Berkun](http://scottberkun.com/2015/why-isnt-remote-work-more-popular/)
 
 ## Talks
 
