@@ -13,6 +13,7 @@
 - [The Modern Mom's Guide to Telecommuting: Finding a Balance in Career, Family and Life in General eBook: Lauren Stern: Kindle Store](http://www.amazon.com/Modern-Moms-Guide-Telecommuting-Finding-ebook/dp/B00FW9DA6U/)
 - [The Art of Staying Home: 7 principles to telecommuting and finding true fulfillment in your work. eBook: Omar Otero Business and Motivational Speaker: Kindle Store](http://www.amazon.com/Art-Staying-Home-telecommuting-fulfillment-ebook/dp/B00RD96TJ2/)
 - [Influencing Virtual Teams: 17 Tactics That Get Things Done with Your Remote Employees eBook: Hassan Osman: Kindle Store](http://www.amazon.com/Influencing-Virtual-Teams-Tactics-Employees-ebook/dp/B00LGWDGG6/)
+[The Field Guide to Telecommuting: The Definitive Handbook for Current and Potential Teleworkers eBook: Catherine Rayburn-Trobaugh: Kindle Store](http://www.amazon.com/Field-Guide-Telecommuting-Definitive-Teleworkers-ebook/dp/B007XF35HK/)
 
 ## Articles
 
