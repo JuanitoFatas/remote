@@ -32,7 +32,7 @@
 
 - [Remote by default (BACON 2014) // Speaker Deck](https://speakerdeck.com/cobyism/remote-by-default-bacon-2014)
 
-[How to Manage a Virtual Team? - Explained in 3 Minutes by Professor Anca Metiu - YouTube](https://www.youtube.com/watch?v=AJQdT637szs)
+- [How to Manage a Virtual Team? - Explained in 3 Minutes by Professor Anca Metiu - YouTube](https://www.youtube.com/watch?v=AJQdT637szs)
 
 ## Tools
 
