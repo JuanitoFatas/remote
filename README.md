@@ -1,4 +1,5 @@
-# Remote <small>[Chinese Articles](https://github.com/JuanitoFatas/remote/wiki/Articles-on-Remote-work-in-Chinese)</small>
+# Remote
+<sup>[Chinese Articles](https://github.com/JuanitoFatas/remote/wiki/Articles-on-Remote-work-in-Chinese)</sup>
 
 ## History
 
@@ -17,7 +18,6 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [REMOTE: OFFICE NOT REQUIRED](http://37signals.com/remote/)
 - [The Year Without Pants](http://scottberkun.com/yearwithoutpants/)
 - [The Remote Worker's Guide to Excellence: Eryck K. Dzotsi: 9781479278725: Books](http://www.amazon.com/Remote-Workers-Guide-Excellence/dp/1479278726/)
-
 - [The Modern Mom's Guide to Telecommuting: Finding a Balance in Career, Family and Life in General eBook: Lauren Stern: Kindle Store](http://www.amazon.com/Modern-Moms-Guide-Telecommuting-Finding-ebook/dp/B00FW9DA6U/)
 - [The Art of Staying Home: 7 principles to telecommuting and finding true fulfillment in your work. eBook: Omar Otero Business and Motivational Speaker: Kindle Store](http://www.amazon.com/Art-Staying-Home-telecommuting-fulfillment-ebook/dp/B00RD96TJ2/)
 - [Influencing Virtual Teams: 17 Tactics That Get Things Done with Your Remote Employees eBook: Hassan Osman: Kindle Store](http://www.amazon.com/Influencing-Virtual-Teams-Tactics-Employees-ebook/dp/B00LGWDGG6/)
