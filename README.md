@@ -3,7 +3,7 @@
 
 ## History
 
-- [History of Telecommuting Adoption in the U.S. - YouTube](https://www.youtube.com/watch?v=2ly09n3_P9k)
+- [History of Telecommuting Adoption in the U.S.](https://www.youtube.com/watch?v=2ly09n3_P9k)
 
 ## Facts
 
@@ -42,9 +42,10 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 ## Videos
 
 - [Jason Fried: Why work doesn't happen at work | Talk Video | TED.com](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work)
-- [Telecommuting is Good for You and Good for Business - YouTube](https://www.youtube.com/watch?v=R2whPdnCGrM)
-- [How to Manage a Virtual Team? - Explained in 3 Minutes by Professor Anca Metiu - YouTube](https://www.youtube.com/watch?v=AJQdT637szs)
-- [Telecommuting: Breaking Myths of Teleworking - YouTube](https://www.youtube.com/watch?v=7G9xGrl5vTk)
+- [Telecommuting is Good for You and Good for Business](https://www.youtube.com/watch?v=R2whPdnCGrM)
+- [How to Manage a Virtual Team? - Explained in 3 Minutes by Professor Anca Metiu](https://www.youtube.com/watch?v=AJQdT637szs)
+- [Telecommuting: Breaking Myths of Teleworking](https://www.youtube.com/watch?v=7G9xGrl5vTk)
+- [RedDotRuby 2014 - Lightning Talk - Nomadic Programmer by Grzegorz Witek](https://www.youtube.com/watch?v=1ThXL5q5zgA)
 
 ## Tools
 
