@@ -6,8 +6,9 @@
 
 ## Facts
 
-[Telework and the U.S. Federal
+- [Telework and the U.S. Federal
 Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
+- [Telecommuting Statistics | Global Workplace Analytics](http://globalworkplaceanalytics.com/telecommuting-statistics)
 
 ## Books
 
