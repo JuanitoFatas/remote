@@ -1,6 +1,4 @@
-# Remote
-
-###### [Chinese Articles](https://github.com/JuanitoFatas/remote/wiki/Articles-on-Remote-work-in-Chinese)
+# Remote <small>[Chinese Articles](https://github.com/JuanitoFatas/remote/wiki/Articles-on-Remote-work-in-Chinese)</small>
 
 ## History
 
