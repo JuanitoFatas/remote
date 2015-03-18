@@ -9,6 +9,7 @@
 - [Telework and the U.S. Federal
 Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [Telecommuting Statistics | Global Workplace Analytics](http://globalworkplaceanalytics.com/telecommuting-statistics)
+- [50 great companies for remote workers](http://skillcrush.com/2014/10/30/50-companies-hiring-remote/)
 
 ## Books
 
