@@ -1,5 +1,7 @@
 # Remote
 
+###### [Chinese Articles](https://github.com/JuanitoFatas/remote/wiki/Articles-on-Remote-work-in-Chinese)
+
 ## History
 
 - [History of Telecommuting Adoption in the U.S. - YouTube](https://www.youtube.com/watch?v=2ly09n3_P9k)
@@ -10,6 +12,7 @@
 Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [Telecommuting Statistics | Global Workplace Analytics](http://globalworkplaceanalytics.com/telecommuting-statistics)
 - [50 great companies for remote workers](http://skillcrush.com/2014/10/30/50-companies-hiring-remote/)
+- [Work From Home: The Top 100 Companies Offering Telecommuting Jobs In 2015 - Forbes](http://www.forbes.com/sites/laurashin/2015/01/21/work-from-home-the-top-100-companies-offering-telecommuting-jobs-in-2015/)
 
 ## Books
 
@@ -22,11 +25,8 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [Influencing Virtual Teams: 17 Tactics That Get Things Done with Your Remote Employees eBook: Hassan Osman: Kindle Store](http://www.amazon.com/Influencing-Virtual-Teams-Tactics-Employees-ebook/dp/B00LGWDGG6/)
 [The Field Guide to Telecommuting: The Definitive Handbook for Current and Potential Teleworkers eBook: Catherine Rayburn-Trobaugh: Kindle Store](http://www.amazon.com/Field-Guide-Telecommuting-Definitive-Teleworkers-ebook/dp/B007XF35HK/)
 
-
-
 ## Articles
 
-###### [Chinese Articles](https://github.com/JuanitoFatas/remote/wiki/Articles-on-Remote-work-in-Chinese)
 - [On working remotely - wonko.com](http://wonko.com/post/on-working-remotely)
 - [Being a Remote Worker Sucks - Long Live the Remote Worker - Scott Hanselman](http://www.hanselman.com/blog/BeingARemoteWorkerSucksLongLiveTheRemoteWorker.aspx)
 - [(118) How does Github evaluate the remote developers they hire? - Quora](http://www.quora.com/How-does-Github-evaluate-the-remote-developers-they-hire)
@@ -69,7 +69,6 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [Authentic Jobs ~ Full-time and freelance job opportunities for web, design, and creative professionals](http://www.authenticjobs.com/)
 - [Curated Digital Remote Jobs for the Modern Working Nomad | Working Nomads](http://www.workingnomads.co/)
 - [RubyNow: Ruby Jobs | Niche Ruby on Rails Jobs Board](http://jobs.rubynow.com/)
-
 
 ### More than Tech
 
