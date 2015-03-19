@@ -38,6 +38,7 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 ## Talks
 
 - [Remote by default (BACON 2014)](https://speakerdeck.com/cobyism/remote-by-default-bacon-2014)
+- [How GitHub Works (GitHub Kaigi, Tokyo, 2014)](https://speakerdeck.com/cobyism/how-github-works-github-kaigi-tokyo-2014)
 - [We Are All Remote Workers](https://speakerdeck.com/nicola/we-are-all-remote-workers)
 - [What You Don’t Know - Remote Work](https://speakerdeck.com/allenwei/what-you-dont-know-remote-work)
 
@@ -55,6 +56,10 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [Cisco WebEx Web Conferencing, Online Meetings, Desktop Sharing, Video Conferencing](http://www.webex.com/)
 - [join.me – Free Screen Sharing and Online Meetings](https://join.me/)
 - [Easy Online Meetings With HD Video Conferencing | GoToMeeting](http://www.gotomeeting.com/online/entry)
+
+## Setup
+
+[What our desks look like - 2015 edition by Dan Kim of Basecamp](https://signalvnoise.com/posts/3833-what-our-desks-look-like-2015-edition)
 
 ## Jobs
 
