@@ -33,9 +33,11 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [Presentations -> Working Remote: Insider Tales of Adaptation at GitHub](http://gotocon.com/berlin-2013/presentation/Working%20Remote:%20Insider%20Tales%20of%20Adaptation%20at%20GitHub)
 - [21 Months In: How to Manage a Remote Team](https://zapier.com/blog/how-manage-remote-team/)
 - [Putting the “emote” in remote work](http://wynnnetherland.com/journal/putting-the-emote-in-remote-work/)
-- [Tips & Tools for Working Remotely and Still Being the Best | Toptal](http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
-- [10 good reasons why working remotely makes sense - TechRepublic](http://www.techrepublic.com/blog/10-things/10-good-reasons-why-working-remotely-makes-sense/)
+- [Tips & Tools for Working Remotely and Still Being the Best](http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
+- [10 good reasons why working remotely makes sense](http://www.techrepublic.com/blog/10-things/10-good-reasons-why-working-remotely-makes-sense/)
 - [Why Isn’t Remote Work More Popular? | Scott Berkun](http://scottberkun.com/2015/why-isnt-remote-work-more-popular/)
+- [Flexible Work: Nice, if You Can Get It](http://op-talk.blogs.nytimes.com/2015/02/17/flexible-work-nice-if-you-can-get-it/?_r=0)
+- [Coliving spaces are bringing digital nomadism one step up](https://www.techinasia.com/coliving-spaces-digital-nomads/)
 
 ## Talks
 
@@ -43,6 +45,10 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [How GitHub Works (GitHub Kaigi, Tokyo, 2014)](https://speakerdeck.com/cobyism/how-github-works-github-kaigi-tokyo-2014)
 - [We Are All Remote Workers](https://speakerdeck.com/nicola/we-are-all-remote-workers)
 - [What You Don’t Know - Remote Work](https://speakerdeck.com/allenwei/what-you-dont-know-remote-work)
+
+## Podcasts
+
+- [#5 – Remote and distributed working](http://feelpodcast.org/podcast/5-working-remotely)
 
 ## Videos
 
@@ -87,6 +93,11 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [remotive.io](http://jobs.remotive.io/) - productive remote workers
 - [Skillbridge](http://www.skillbridge.co/)
 - [Fiverr: The marketplace for creative & professional services](https://www.fiverr.com/)
+
+### Also checkout
+
+- https://www.reddit.com/r/telecommuting
+- [Telecommuting and Working Remotely - Quora](https://www.quora.com/Telecommuting-and-Working-Remotely)
 
 ## License
 
