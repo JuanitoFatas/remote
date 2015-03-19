@@ -37,7 +37,9 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 
 ## Talks
 
-- [Remote by default (BACON 2014) // Speaker Deck](https://speakerdeck.com/cobyism/remote-by-default-bacon-2014)
+- [Remote by default (BACON 2014)](https://speakerdeck.com/cobyism/remote-by-default-bacon-2014)
+- [We Are All Remote Workers](https://speakerdeck.com/nicola/we-are-all-remote-workers)
+- [What You Don’t Know - Remote Work](https://speakerdeck.com/allenwei/what-you-dont-know-remote-work)
 
 ## Videos
 
