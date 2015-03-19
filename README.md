@@ -51,7 +51,7 @@ A Study of the Growing Momentum in Telework](http://www-01.ibm.com/industries/go
 - [How GitHub Works (GitHub Kaigi, Tokyo, 2014)](https://speakerdeck.com/cobyism/how-github-works-github-kaigi-tokyo-2014)
 - [We Are All Remote Workers](https://speakerdeck.com/nicola/we-are-all-remote-workers)
 - [What You Don’t Know - Remote Work](https://speakerdeck.com/allenwei/what-you-dont-know-remote-work)
-
+- [On Writing Well The Classic Guide to Writing Nonfiction.](http://www.amazon.com/Writing-Well-30th-Anniversary-Edition/dp/0060891548)
 ## Podcasts
 
 - [#5 – Remote and distributed working](http://feelpodcast.org/podcast/5-working-remotely)
