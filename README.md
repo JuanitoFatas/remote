@@ -61,7 +61,7 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 
 ## Setup
 
-[What our desks look like - 2015 edition by Dan Kim of Basecamp](https://signalvnoise.com/posts/3833-what-our-desks-look-like-2015-edition)
+- [What our desks look like - 2015 edition by Dan Kim of Basecamp](https://signalvnoise.com/posts/3833-what-our-desks-look-like-2015-edition)
 
 ## Jobs
 
