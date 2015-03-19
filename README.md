@@ -1,8 +1,7 @@
 # Remote
-<sup>Also checkout:
-<sub>[Resources in Chinese](https://github.com/JuanitoFatas/remote/wiki/Articles-on-Remote-work-in-Chinese)</sub> |
-<sub>[lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)</sub> |
-<sub>[greatghoul/remote-working](https://github.com/greatghoul/remote-working)</sub>
+<sup>[Resources in Chinese](https://github.com/JuanitoFatas/remote/wiki/Articles-on-Remote-work-in-Chinese)</sup> |
+<sup>[lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)</sup> |
+<sup>[greatghoul/remote-working](https://github.com/greatghoul/remote-working)</sup>
 
 ## History
 
