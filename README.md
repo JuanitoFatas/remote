@@ -100,7 +100,7 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 ### Also checkout
 
 - https://www.reddit.com/r/telecommuting
-- [Telecommuting and Working Remotely - Quora](https://www.quora.com/Telecommuting-and-Working-Remotely)
+- [Telecommuting and Working Remotely on Quora](https://www.quora.com/Telecommuting-and-Working-Remotely)
 
 ## License
 
