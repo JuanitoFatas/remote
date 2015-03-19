@@ -27,15 +27,16 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 
 ## Articles
 
-- [On working remotely - wonko.com](http://wonko.com/post/on-working-remotely)
-- [Being a Remote Worker Sucks - Long Live the Remote Worker - Scott Hanselman](http://www.hanselman.com/blog/BeingARemoteWorkerSucksLongLiveTheRemoteWorker.aspx)
-- [(118) How does Github evaluate the remote developers they hire? - Quora](http://www.quora.com/How-does-Github-evaluate-the-remote-developers-they-hire)
+- [How remote work changed my life](http://justinjackson.ca/remote/)
+- [On working remotely](http://wonko.com/post/on-working-remotely)
+- [Being a Remote Worker Sucks - Long Live the Remote Worker](http://www.hanselman.com/blog/BeingARemoteWorkerSucksLongLiveTheRemoteWorker.aspx)
+- [(118) How does Github evaluate the remote developers they hire?](http://www.quora.com/How-does-Github-evaluate-the-remote-developers-they-hire)
 - [Presentations -> Working Remote: Insider Tales of Adaptation at GitHub](http://gotocon.com/berlin-2013/presentation/Working%20Remote:%20Insider%20Tales%20of%20Adaptation%20at%20GitHub)
 - [21 Months In: How to Manage a Remote Team](https://zapier.com/blog/how-manage-remote-team/)
 - [Putting the “emote” in remote work](http://wynnnetherland.com/journal/putting-the-emote-in-remote-work/)
 - [Tips & Tools for Working Remotely and Still Being the Best](http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
 - [10 good reasons why working remotely makes sense](http://www.techrepublic.com/blog/10-things/10-good-reasons-why-working-remotely-makes-sense/)
-- [Why Isn’t Remote Work More Popular? | Scott Berkun](http://scottberkun.com/2015/why-isnt-remote-work-more-popular/)
+- [Why Isn’t Remote Work More Popular?](http://scottberkun.com/2015/why-isnt-remote-work-more-popular/)
 - [Flexible Work: Nice, if You Can Get It](http://op-talk.blogs.nytimes.com/2015/02/17/flexible-work-nice-if-you-can-get-it/?_r=0)
 - [Coliving spaces are bringing digital nomadism one step up](https://www.techinasia.com/coliving-spaces-digital-nomads/)
 
