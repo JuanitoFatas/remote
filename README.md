@@ -40,6 +40,7 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [Flexible Work: Nice, if You Can Get It](http://op-talk.blogs.nytimes.com/2015/02/17/flexible-work-nice-if-you-can-get-it/?_r=0)
 - [Coliving spaces are bringing digital nomadism one step up](https://www.techinasia.com/coliving-spaces-digital-nomads/)
 - [Thoughts on Trust in Remote Teams](http://thomas.hils.us/2015/02/12/thoughts-on-trust-in-remote-teams/)
+- [Togetherness](http://stewartritchie.com/2015/02/10/togtherness/)
 
 ## Talks
 
