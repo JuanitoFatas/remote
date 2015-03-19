@@ -1,5 +1,5 @@
 # Remote
-<sup>[Chinese Articles](https://github.com/JuanitoFatas/remote/wiki/Articles-on-Remote-work-in-Chinese)</sup>
+<sup>[Resources in Chinese](https://github.com/JuanitoFatas/remote/wiki/Articles-on-Remote-work-in-Chinese)</sup>
 
 ## History
 
@@ -82,7 +82,7 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [Guru - Hire Quality Freelancers And Find Freelance Jobs](http://www.guru.com/)
 - [Hire freelancers and find freelance jobs instantly | Elance](https://www.elance.com/)
 - [WFH.io](https://www.wfh.io/) - Technology-based remote (work from home) jobs
-- [remotive.io - ](http://jobs.remotive.io/) - productive remote workers
+- [remotive.io](http://jobs.remotive.io/) - productive remote workers
 - [Skillbridge](http://www.skillbridge.co/)
 - [Fiverr: The marketplace for creative & professional services](https://www.fiverr.com/)
 
