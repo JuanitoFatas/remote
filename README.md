@@ -32,7 +32,7 @@ A Study of the Growing Momentum in Telework](http://www-01.ibm.com/industries/go
 - [How remote work changed my life](http://justinjackson.ca/remote/)
 - [On working remotely](http://wonko.com/post/on-working-remotely)
 - [Being a Remote Worker Sucks - Long Live the Remote Worker](http://www.hanselman.com/blog/BeingARemoteWorkerSucksLongLiveTheRemoteWorker.aspx)
-- [(118) How does Github evaluate the remote developers they hire?](http://www.quora.com/How-does-Github-evaluate-the-remote-developers-they-hire)
+- [How does Github evaluate the remote developers they hire?](http://www.quora.com/How-does-Github-evaluate-the-remote-developers-they-hire)
 - [Presentations -> Working Remote: Insider Tales of Adaptation at GitHub](http://gotocon.com/berlin-2013/presentation/Working%20Remote:%20Insider%20Tales%20of%20Adaptation%20at%20GitHub)
 - [21 Months In: How to Manage a Remote Team](https://zapier.com/blog/how-manage-remote-team/)
 - [Putting the “emote” in remote work](http://wynnnetherland.com/journal/putting-the-emote-in-remote-work/)
@@ -52,6 +52,7 @@ A Study of the Growing Momentum in Telework](http://www-01.ibm.com/industries/go
 - [We Are All Remote Workers](https://speakerdeck.com/nicola/we-are-all-remote-workers)
 - [What You Don’t Know - Remote Work](https://speakerdeck.com/allenwei/what-you-dont-know-remote-work)
 - [On Writing Well The Classic Guide to Writing Nonfiction.](http://www.amazon.com/Writing-Well-30th-Anniversary-Edition/dp/0060891548)
+
 ## Podcasts
 
 - [#5 – Remote and distributed working](http://feelpodcast.org/podcast/5-working-remotely)
@@ -62,7 +63,7 @@ A Study of the Growing Momentum in Telework](http://www-01.ibm.com/industries/go
 - [Telecommuting is Good for You and Good for Business](https://www.youtube.com/watch?v=R2whPdnCGrM)
 - [How to Manage a Virtual Team? - Explained in 3 Minutes by Professor Anca Metiu](https://www.youtube.com/watch?v=AJQdT637szs)
 - [Telecommuting: Breaking Myths of Teleworking](https://www.youtube.com/watch?v=7G9xGrl5vTk)
-- [RedDotRuby 2014 - Lightning Talk - Nomadic Programmer by Grzegorz Witek](https://www.youtube.com/watch?v=1ThXL5q5zgA)
+- [Nomadic Programmer by Grzegorz Witek - RedDotRuby 2014](https://www.youtube.com/watch?v=1ThXL5q5zgA)
 
 ## Tools
 
