@@ -66,7 +66,6 @@ Government: At the Tipping Point](http://www.aethra.net/media/files/73_01.pdf)
 - [Slack: Be less busy](https://slack.com/)
 - [Private group chat, video chat, instant messaging for teams – HipChat](https://www.hipchat.com/)
 - [Flowdock: Group chat for teams. Integrates with GitHub, Jira, Trello.](https://www.flowdock.com/)
-
 - [Online Collaboration Software for Remote and Virtual Teams | Sqwiggle](https://www.sqwiggle.com/)
 - [Cisco WebEx Web Conferencing, Online Meetings, Desktop Sharing, Video Conferencing](http://www.webex.com/)
 - [join.me – Free Screen Sharing and Online Meetings](https://join.me/)
