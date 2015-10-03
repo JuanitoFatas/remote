@@ -25,6 +25,12 @@ A Study of the Growing Momentum in Telework](http://www-01.ibm.com/industries/go
 - [The Art of Staying Home: 7 principles to telecommuting and finding true fulfillment in your work. eBook: Omar Otero Business and Motivational Speaker: Kindle Store](http://www.amazon.com/Art-Staying-Home-telecommuting-fulfillment-ebook/dp/B00RD96TJ2/)
 - [Influencing Virtual Teams: 17 Tactics That Get Things Done with Your Remote Employees eBook: Hassan Osman: Kindle Store](http://www.amazon.com/Influencing-Virtual-Teams-Tactics-Employees-ebook/dp/B00LGWDGG6/)
 [The Field Guide to Telecommuting: The Definitive Handbook for Current and Potential Teleworkers eBook: Catherine Rayburn-Trobaugh: Kindle Store](http://www.amazon.com/Field-Guide-Telecommuting-Definitive-Teleworkers-ebook/dp/B007XF35HK/)
+* [The Ultimate Guide to Remote Work: How to Grow, Manage and Work with Remote Teams](http://www.amazon.com/Ultimate-Guide-Remote-Work-Manage-ebook/dp/B00VDQ280A/ref=sr_1_1?s=books&ie=UTF8&qid=1443883813&sr=1-1&keywords=remote+work)
+* [The Remote Worker's Guide to Excellence](http://www.amazon.com/Remote-Workers-Guide-Excellence/dp/1479278726/ref=sr_1_4?s=books&ie=UTF8&qid=1443883813&sr=1-4&keywords=remote+work)
+* [Travel While You Work: The Ultimate Guide to Running a Business from Anywhere eBook](http://www.amazon.com/Travel-While-You-Work-Ultimate-ebook/dp/B013YF0TOY/ref=sr_1_5?s=books&ie=UTF8&qid=1443883813&sr=1-5&keywords=remote+work)
+* [The Digital Nomad: Escape The Rat Race, Travel The World & Work Anywhere 1, Steven King](http://www.amazon.com/Digital-Nomad-Escape-Travel-Anywhere-ebook/dp/B0147H1AD2/ref=sr_1_8?s=books&ie=UTF8&qid=1443883813&sr=1-8&keywords=remote+work)
+* [Better Remote Work: Do it Right, and Reap the Benefits: Jarkko Oksanen](http://www.amazon.com/Better-Remote-Work-Right-Benefits/dp/1631928708/ref=sr_1_9?s=books&ie=UTF8&qid=1443883813&sr=1-9&keywords=remote+work)
+
 
 ## Articles
 
