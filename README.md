@@ -31,7 +31,6 @@ A Study of the Growing Momentum in Telework](http://www-01.ibm.com/industries/go
 * [The Digital Nomad: Escape The Rat Race, Travel The World & Work Anywhere 1, Steven King](http://www.amazon.com/Digital-Nomad-Escape-Travel-Anywhere-ebook/dp/B0147H1AD2/ref=sr_1_8?s=books&ie=UTF8&qid=1443883813&sr=1-8&keywords=remote+work)
 * [Better Remote Work: Do it Right, and Reap the Benefits: Jarkko Oksanen](http://www.amazon.com/Better-Remote-Work-Right-Benefits/dp/1631928708/ref=sr_1_9?s=books&ie=UTF8&qid=1443883813&sr=1-9&keywords=remote+work)
 
-
 ## Articles
 
 - [How remote work changed my life](http://justinjackson.ca/remote/)
@@ -49,6 +48,10 @@ A Study of the Growing Momentum in Telework](http://www-01.ibm.com/industries/go
 - [Thoughts on Trust in Remote Teams](http://thomas.hils.us/2015/02/12/thoughts-on-trust-in-remote-teams/)
 - [Togetherness](http://stewartritchie.com/2015/02/10/togtherness/)
 - [Working Remotely Saves Money](http://blog.sqwiggle.com/working-remotely-saves-money/)
+
+## Hiring
+
+- [Seven lessons in hiring remote employees: How Doist does it](https://resources.workable.com/blog/hiring-remote-employees)
 
 ## Talks
 
